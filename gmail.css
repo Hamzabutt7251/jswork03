@@ -1,0 +1,91 @@
+.head-er
+{
+    width: 1600px;
+    height: 70px;
+    background-color: #e2e3e7;
+    margin: -08px; 
+}
+.left-gogle
+{
+    margin-left: 80px;
+    padding: 8px;
+}
+.right
+{
+    float: right;
+    margin-right: 270px;
+    margin-top: -30px;
+}
+.right input
+{
+    background-color: #0073e6;
+    color:white;
+    padding-top: 06px;
+    padding-bottom: 06px;
+    padding-right: 14px;
+    padding-left: 14px;
+    border-radius: 5px;
+}
+.center-txt h1
+{
+    text-align: center;
+    color:gray;
+}
+.slid-txt h3
+{
+    margin-left: 35px;
+    color: grey;
+}
+.slid-txt
+{
+    margin-left: 300px;
+    margin-top:70px;
+}
+.pic-txt h3
+{
+    margin-left: 90px;
+    color: grey;
+}
+.pic-txt
+{
+    margin-left:280px;
+    margin-top: 70px;
+}
+.right-box
+{ 
+width: 430px;
+height: 650px;
+background-color: #e2e3e7;
+display: inline-block;
+float: right;
+margin-right: 180px;
+margin-top: 53px;
+}
+.box-ctrl
+{
+margin-left: 20px;
+}
+.right-box h3
+{
+margin-left: 20px
+}
+.E-mail h3
+{
+ margin-left: 4px;
+}
+.E-mail input
+{
+ margin-top: -80px;
+}
+.crat-pass
+{
+ margin-top: -20px;
+}
+.confirm-password
+{
+margin-top: 0px;
+}
+.confirm-password h3
+{
+    margin-left: 10px;
+}

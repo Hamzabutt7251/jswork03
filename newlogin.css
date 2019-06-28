@@ -1,0 +1,40 @@
+.log-in input
+{
+background-color: #e6005c;
+padding: 10px;
+border-radius: 25px;
+}
+li 
+{
+  display: inline;
+  text-decoration: none;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+  background-color: silver;
+}
+.pass
+{
+  margin: 5px;
+}
+.log-in-fb input
+{
+  background-color: #3333cc;
+  padding: 10px;
+  border-radius: 25px;
+}
+.out-line
+{
+  width: 250px;
+  height: 300px;
+}
+.fg-pass
+{
+  margin-right: 50px;  
+  text-align: center; 
+  color: blue;
+}
+a:hover
+{
+  color: yellow;
+}

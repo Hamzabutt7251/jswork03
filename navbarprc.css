@@ -1,0 +1,66 @@
+.main-dv{
+    background-color: #17517a; 
+    height: 43px;
+    width: 100%;
+}
+.main-dv p
+{
+    text-align: center;
+    color: aliceblue;
+}
+.second-dv{
+    height: 50px;
+}
+.li-st li
+{
+text-decoration: none;
+display: inline;
+margin-left: 5px;
+}
+.li-st li a
+{
+    color: black;
+}
+.lo-go {
+    margin-left: 670px;
+    margin-top: -90px;
+}
+.rite-list
+{
+    float: right;
+}
+.rite-list
+{
+ margin-right: 60px;
+ margin-top: -135px;
+}
+.rite-list li{
+    text-decoration: none;
+    display: inline;
+}
+.rite-list li a{
+color: black;
+}
+.rite-list li{
+    margin-left: 5px;
+}
+hr{
+    color: grey;
+}
+.bot-tom li{
+ display: inline;
+ text-decoration: none;
+ margin-left: 5px;
+}
+.bot-tom li a
+{
+    color:black;
+}
+.bot-tom
+{
+    text-align: center;
+}
+.li-st {
+    margin-top: 60px;
+    padding-top: 60px;
+}

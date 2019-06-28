@@ -1,0 +1,31 @@
+
+.para{
+    width: 80%;
+    height: 250px;
+    margin-left: 100px;
+}
+.para h1
+{
+    text-align: center;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+.para-1
+{
+    display: inline-block;
+}
+.para-2
+{
+    display: inline-block;
+}
+.para-3
+{
+    display: inline-block:
+}

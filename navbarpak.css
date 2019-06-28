@@ -1,0 +1,24 @@
+.down{
+    transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+.side-bar li{
+      display: inline;
+      text-decoration: none;
+  }
+.last-opt
+{
+    margin-left: 1440px;
+    margin-top: -130px;
+}
+.end-bar-1
+{
+    margin-left: 1410px;
+    margin-top: -80px;
+}

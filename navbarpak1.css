@@ -1,0 +1,39 @@
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .side-menu li
+  {
+  display: inline;
+  text-decoration: none;
+  }
+  .side-menu 
+  {
+    float: right;
+    margin-top: -70px;
+}
+  .pc-logo
+  {
+    margin-top: -20px;
+  }
+  .button
+  {
+      float: right;
+      margin-top: -25px;
+  }
+  .side-menu li{
+      margin-left: 20px;
+  }
+  .search-bar{
+      margin-top: -20px;
+      margin-left: 10px;
+  }
+  .search-bar input{
+      border-color: green;
+  }

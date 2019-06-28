@@ -1,0 +1,20 @@
+@keyframes sky{
+  0%{
+ background-color :skyblue;
+ transform: rotate(90edge);
+ width: 100px;
+ width: 100px;
+}
+  50%{
+background-color:#ff0000;
+width: 500px;
+height: 500px;
+transform: skew(270)
+}
+ 100%{
+  background-color:gray;
+  width: 1000px;
+  height: 1000px;
+ transform: scale(100)
+}
+}

@@ -1,0 +1,77 @@
+.ma-in
+{
+    margin-left: 10px;
+}
+.ma-in li
+{
+    margin-top: 5px;
+    text-decoration: none;
+    display: inherit;
+}
+.one li
+{
+    text-decoration: none;
+    display: inherit;
+
+}
+.one{
+   margin-left: 300px;
+    margin-top: -200px;
+}   
+.two{
+    margin-left: 600px;
+     margin-top: -200px;
+ }
+.two li
+{
+    text-decoration: none;
+    display: inherit;
+    margin-top: 15px;
+}
+.four
+ {
+    margin-left: 350px;
+    margin-top: -200px
+}
+.four li
+ {
+    margin-top: 1px;
+    text-decoration: none;
+    display: inherit;
+ }
+ .three
+ {
+    margin-left: 10px;
+    margin-top: -250px
+}
+.three li
+ {
+     margin-top: 1px;
+    text-decoration: none;
+    display: inherit;
+ }
+ .main-list li
+ {
+     margin-top: 10px;
+     font-style: italic;
+ }
+.one-list li
+{
+    margin-top: 10px;
+    font-style: italic;
+}
+.three-list li
+{
+    margin-top: 10px;
+    font-style: italic;
+}
+.two-list li
+{
+    margin-top: 15px;
+    font-style: italic;
+}
+.four-list li
+{
+    margin-top: 10px;
+    font-style: italic;
+}
